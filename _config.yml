@@ -27,11 +27,6 @@ author:  # change following line to your infomation.
     - name: 
   desc: I'm a final year student at the University of Pretoria studying towards a degree in Computer Science. I'm passionate about coding, electronics and love to put together things in my spare time.
 
-# comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
-
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
