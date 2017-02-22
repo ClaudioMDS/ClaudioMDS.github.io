@@ -2,7 +2,7 @@
 
 # Website settings
 title: ClaudioMDS
-description: Jack's blog,use Jekyll and github pages.
+description: ClaudioMDS personal site.
 keywords: Claudio,ClaudioMDS,personal,Jekyll,github,gh-pages
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://claudioMDS.github.io/  # url should be changed to 'http://www.jack003.com/homepage' as before
