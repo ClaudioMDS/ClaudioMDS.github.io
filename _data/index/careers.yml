@@ -1,0 +1,29 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: University of Pretoria
+    i18n: company_a
+  desc:
+    detail: Worked as a TA for the module COS 284 (Computer Architecture)
+    i18n: company_a_desc
+  date:
+    detail: July 2016 - November 2016
+    i18n: company_a_date
+  job:
+    detail: Teaching Assistant
+    i18n: company_a_job
+  icon: fa-university
+
+- name:
+    detail: University of Pretoria
+    i18n: company_b
+  desc:
+    detail: Worked as a TA for the module COS 110 (C++ Programming)
+    i18n: company_b_desc
+  date:
+    detail: July 2015 - November 2015
+    i18n: company_b_date
+  job:
+    detail: Teaching Assistant
+    i18n: company_b_job
+  icon: fa-university

@@ -1,0 +1,6 @@
+# skills section data
+
+label: Proficiency
+id : cs
+aspects: C/C++, Java/JavaEE, Python, Angular, C#, Databases, Networking and Security
+percentage: 75, 85, 80, 75, 95, 95, 85
