@@ -1,2 +1,2 @@
-# ClaudioMDS.github.io
-My personal GitHub site
+# Claudio Da Silva
+My personal GitHub site for all things coding related
